@@ -118,7 +118,7 @@ U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.SPC),U_
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Y,              KC.U,              KC.I,              KC.O,              KC.P,              \
 U_MT(KC.A,KC.LGUI),U_MT(KC.S,KC.LALT),U_MT(KC.D,KC.LCTL),U_MT(KC.F,KC.LSFT),KC.G,              KC.H,              U_MT(KC.J,KC.LSFT),U_MT(KC.K,KC.LCTL),U_MT(KC.L,KC.LALT),U_MT(KC.QUOT,KC.LGUI),\
 U_LT(U_BUTTON,KC.Z),U_MT(KC.X,KC.RALT),KC.C,              KC.V,              KC.B,              KC.N,              KC.M,              KC.COMM,           U_MT(KC.DOT,KC.RALT),U_LT(U_BUTTON,KC.SLSH),\
-U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.SPC),U_LT(U_MOUSE,KC.TAB),U_LT(U_SYM,KC.ENT),U_LT(U_NUM,KC.BSPC),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
+U_NP,              U_NP,              U_LT(U_MEDIA,KC.ESC),U_LT(U_NAV,KC.TAB),U_LT(U_MOUSE,KC.BSPC),U_LT(U_SYM,KC.SPC),U_LT(U_NUM,KC.ENT),U_LT(U_FUN,KC.DEL),U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTZ \
 KC.Q,              KC.W,              KC.E,              KC.R,              KC.T,              KC.Z,              KC.U,              KC.I,              KC.O,              KC.P,              \
